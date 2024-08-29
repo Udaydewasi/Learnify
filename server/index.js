@@ -57,7 +57,7 @@ app.get("/", (req, res) => {
 });
 
 // Listening to the server
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
 	console.log(`App is listening at ${PORT}`);
 });
 
