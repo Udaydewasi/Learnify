@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ By Aakash Bhargava © 2023 Learnify</div>
+          <div className="text-center">Made with ❤️ By Uday Dewasi © 2023 Learnify</div>
         </div>
       </div>
     </div>
