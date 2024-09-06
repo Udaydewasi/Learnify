@@ -68,8 +68,7 @@ function CourseDetailsCard({ course, setConfirmationModal, handleBuyCourse }) {
             <button
               className="yellowButton"
               onClick={
-                // user && course?.studentsEnrolled.includes(user?._id)
-                  course?.studentsEnrolled.includes(user?._id)// replaced upper line with this
+                user && course?.studentsEnrolled.includes(user?._id)
                   ? () => navigate("/dashboard/enrolled-courses")
                   : handleBuyCourse
               }
