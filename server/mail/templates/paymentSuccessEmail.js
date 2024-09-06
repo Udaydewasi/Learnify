@@ -67,7 +67,7 @@ exports.paymentSuccessEmail = (name, amount, orderId, paymentId) => {
       
       <body>
           <div class="container">
-              <a href="https://learnifyedtech.vercel.app/"><img class="logo" src="https://i.postimg.cc/CKbBR363/Learnify-2-a.png"
+              <a href="https://learnify-eosin.vercel.app/"><img class="logo" src="https://i.postimg.cc/CKbBR363/Learnify-2-a.png"
                       alt="Learnify Logo"></a>
               <div class="message">Course Payment Confirmation</div>
               <div class="body">
