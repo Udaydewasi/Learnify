@@ -25,7 +25,7 @@ exports.resetPasswordToken = async (req, res) => {
 		);
 		console.log("DETAILS", updatedDetails);
 
-		const url = `https://learnifyedtech.vercel.app/update-password/${token}`;
+		const url = `https://learnify-eosin.vercel.app/update-password/${token}`;
 
 		await mailSender(
 			email,
