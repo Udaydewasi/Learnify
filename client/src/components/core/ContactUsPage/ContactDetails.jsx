@@ -15,13 +15,13 @@ const contactDetails = [
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "Gandhi Nagar Subham Apartments, Bangalore-895212",
+      "Ratanda Jodhpur, Rajasthan-342011",
   },
   {
     icon: "IoCall",
     heading: "Call us",
     description: "Mon - Fri 8am to 5pm",
-    details: "+123 456 7869",
+    details: "+91 78788 42019",
   },
 ]
 
